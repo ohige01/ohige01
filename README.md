@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonGyu&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonGyu-Choi&fontAlign=70&fontAlignY=40&color=gradient)
 
 <!--
 **ohige01/ohige01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
