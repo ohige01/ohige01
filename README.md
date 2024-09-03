@@ -9,7 +9,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohige01&show_icons=true&theme=radical&bg_color=20,004e95,696969&title_color=fff&text_color=fff&layout=compact&height="600px")
 </div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff" width=100%/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff&bg_color=004e80" width=100%/>
 </a>
 
 <!--
