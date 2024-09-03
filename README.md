@@ -1,16 +1,20 @@
 <div align="center">
+  <hr>
   
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=SeonGyu,Choi&fontSize=70&color=0:004e80,100:696969&stroke=004e80&fontColor=ffffff)
   
-  <h2 align="center">⭐Contribution⭐</h2>
+  <hr>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohige01\&rank_icon=github\&bg_color=20,696969,004e80\&title_color=fff\&text_color=fff\&height="300px")
   &emsp;
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohige01&show_icons=true&theme=radical&bg_color=20,004e95,696969&title_color=fff&text_color=fff&layout=compact&height="600px")
+  <br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff&bg_color=004e80&point=ffffff&hide_title=true" width=100%/>
+  </a>
+
+  <hr>
 </div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff&bg_color=004e80" width=100%/>
-</a>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohige01\&rank_icon=github\&bg_color=20,e96443,904e95\&title_color=fff\&text_color=fff)
