@@ -1,13 +1,15 @@
 <div align="center">
   
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeonGyu-Choi&fontAlign=70&fontAlignY=40&color=gradient)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohige01\&rank_icon=github\&bg_color=20,696969,904e95\&title_color=fff\&text_color=fff\&height="300px")
+  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=SeonGyu,Choi&fontSize=70&color=0:004e80,100:696969&stroke=004e80&fontColor=ffffff)
+  
+  <h2 align="center">⭐Contribution⭐</h2>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohige01\&rank_icon=github\&bg_color=20,696969,004e80\&title_color=fff\&text_color=fff\&height="300px")
   &emsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohige01&show_icons=true&theme=radical&bg_color=50,904e95,904e95&title_color=fff&text_color=fff&layout=compact&height="600px")
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohige01&show_icons=true&theme=radical&bg_color=20,004e95,696969&title_color=fff&text_color=fff&layout=compact&height="600px")
 </div>
-<br><br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0&days=60" width=100%/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff" width=100%/>
 </a>
 
 <!--
