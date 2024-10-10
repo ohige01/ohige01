@@ -9,10 +9,11 @@
   &emsp;
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohige01)](https://solved.ac/ohige01/)
   <br>
+<!--
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohige01&theme=tokyo-night&hide_border=true&days=60&radius=10&color=ffffff&bg_color=004e80&point=ffffff&hide_title=true" width=100%/>
   </a>
-
+-->
   <hr>
 </div>
 
